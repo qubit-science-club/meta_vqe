@@ -4,18 +4,30 @@ This is the forked repository for the article "The Meta-Variational Quantum Eige
 
 We used Meta-VQE algorithm to calculate ground state energies for 4 different systems - three 1D and one 2D. Below we present plots of our results.
 
+__1D system - 7 qubits__
 
-__Content:__
+![](new_plots/1d_7q/plot1.png)
+![](new_plots/1d_7q/plot2.png)
+![](new_plots/1d_7q/plot3.png)
+![](new_plots/1d_7q/plot4.png)
 
-* `data` folder: contains all data presented in the main article.
-* `img` folder: contains the plots of the main article and other plots generated with the available data.
-* `Meta-VQE` demo: jupyter notebook with the source code used to run the simulations. 
-* `Molecular-Meta-VQE` demo: An explicit illustration of a non-linear meta-VQE for molecules as described in the article.
-* `transmon`: main code to obtain the results for the single-transmon simulation.
+__1D system - 8 qubits__
 
-__Dependencies:__
+![](new_plots/1d_8q/plot1.png)
+![](new_plots/1d_8q/plot2.png)
+![](new_plots/1d_8q/plot3.png)
+![](new_plots/1d_8q/plot4.png)
 
-You will need `tequila` to run the notebooks.  
-Just follow the instructions on the [github page](https://github.com/aspuru-guzik-group/tequila).
-If you are using Linux, you can clone this repository and run `pip install .` to install `tequila` form the `setup.py` file provided here.  
-If you are using Mac or Windows, you probably need to install the `qulacs` simulator manually (or alternatively any other suported quantum backend) -- see the `tequila` [github page](https://github.com/aspuru-guzik-group/tequila). 
+__1D system - 9 qubits__
+
+![](new_plots/1d_9q/plot1.png)
+![](new_plots/1d_9q/plot2.png)
+![](new_plots/1d_9q/plot3.png)
+![](new_plots/1d_9q/plot4.png)
+
+__2D system - 9 qubits__
+
+![](new_plots/2d_9q/plot1.png)
+![](new_plots/2d_9q/plot2.png)
+![](new_plots/2d_9q/plot3.png)
+![](new_plots/2d_9q/plot4.png)
