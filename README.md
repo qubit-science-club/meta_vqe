@@ -1,6 +1,9 @@
-# Meta-VQE
+# Meta-VQE - different cases
 
-This is the repository for the article "The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation", Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik, [arXiv:2009.13545[quant-ph]](https://arxiv.org/abs/2009.13545).
+This is the forked repository for the article "The Meta-Variational Quantum Eigensolver (Meta-VQE): Learning energy profiles of parameterized Hamiltonians for quantum simulation", Alba Cervera-Lierta, Jakob S. Kottmann, Alán Aspuru-Guzik, [arXiv:2009.13545[quant-ph]](https://arxiv.org/abs/2009.13545).
+
+We used Meta-VQE algorithm to calculate ground state energies for 4 different systems - three 1D and one 2D. Below we present plots of our results.
+
 
 __Content:__
 
